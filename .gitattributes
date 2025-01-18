@@ -1,0 +1,2 @@
+default.conf filter=lfs diff=lfs merge=lfs -text
+Dockerfile filter=lfs diff=lfs merge=lfs -text

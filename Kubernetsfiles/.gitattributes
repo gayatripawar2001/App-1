@@ -1,0 +1,2 @@
+deployment.yml filter=lfs diff=lfs merge=lfs -text
+service.yml filter=lfs diff=lfs merge=lfs -text
