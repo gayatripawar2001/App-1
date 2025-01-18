@@ -2,7 +2,8 @@
 
 This repository provides all the resources required to deploy a web application in a cloud-based Kubernetes solution with monitoring and logging. Below are the prerequisites and detailed steps to set up and deploy the solution.
 
-![image](https://github.com/user-attachments/assets/dd305d3a-680d-4205-b55e-4a2ce69e1f8f)
+![image](https://github.com/user-attachments/assets/15e73e34-0971-413b-8468-280b1d61b16c)
+
 
 ## Prerequisites
 Before you start, ensure the following tools are installed and configured on your system:
