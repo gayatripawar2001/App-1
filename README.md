@@ -87,10 +87,6 @@ terraform apply -var-file=variables.tfvars --auto-approve"
 **3. Build and Push the Docker Image**
    - Navigate to the main directory where Dockerfile is present:
      
-```
-cd ../webapp
-```
-
    - Build the Docker image:
      
 ```
