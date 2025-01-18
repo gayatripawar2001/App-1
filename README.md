@@ -52,7 +52,7 @@ Before you start, ensure the following tools are installed and configured on you
     - Clone this repository to your local system: 
 
 ``` 
- git clone https://github.com/gayatripawar2001/App.git
+ git clone https://github.com/gayatripawar2001/App-1.git
 ```
 
 ```
@@ -176,7 +176,9 @@ kubectl apply -f service.yaml
 
    - Access Grafana Page:
 
-     ```http://localhost:8080```
+     ```
+     http://localhost:8080
+     ```
      
      You’ll see the Grafana login page. The default user account is admin with a password of 'prom-operator'.
      
